@@ -1,0 +1,313 @@
+
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+
+.bg{
+    background-image:url("./Untitled\ design.png");
+    background-size: cover;
+    height: 680px;
+    width: 100%;
+}
+
+.nav-logo{
+    
+    width: 130px;
+    height: 25px;
+    padding: 25px;
+    position: relative;
+    top: 11px;
+    left: 9%;
+     background-image: url("./Netflix_Logo_RGB.png");
+    background-size: contain;
+    
+}
+
+.languge{
+    position: relative;
+    left: 750%;
+    border: 1px solid rgba(255, 255, 255, 0.548);
+    height: 30px;
+    width: 125px;
+    background-color:rgba(0, 0, 0, 0.563);
+    border-radius: 3px;
+    
+}
+
+.lang{
+     height: 28px;
+    width: 122px;
+    background-color:rgba(0, 0, 0, 0.553);
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    border: none;
+    text-align: center;
+    margin-left: 2px;
+    margin-top: 1.3px;
+    border-radius: 3px;
+    font-weight: 500;
+    /* margin-top: 0%; */
+   
+
+}
+
+.btn{
+    background-color: red;
+    border: none;
+     height: 30px;
+    width: 80px;
+    font-size: 1.1rem;
+     border-radius: 6px;
+     position: absolute;
+     left: 115%;
+     color: white;
+     
+
+}
+
+.container{
+    /* background color is userstand to the container size and other */
+    /* background-color: aqua; */
+    height: 300px;
+    width: 600px;
+    position: relative;
+    left: 30%;
+    top: 40px;
+    margin-top: 10%;
+     text-align: center;
+     color: white;
+     font-weight: bold;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 3.2rem;
+    margin-bottom: 20px;
+    font-weight: bolder;
+    
+    
+
+}
+a{
+    text-align: center;
+   margin-top: 2px;
+   font-weight: 700;
+   font-size: 18px;
+   
+        
+}
+
+p{
+   
+    margin-top: 30px;
+    font-weight: 300;
+   
+}
+
+
+
+.mail{
+    
+    text-align: center;
+    margin-top: 1.6%;
+}
+
+.get{
+    height: 45px;
+    width: 333px;
+    font-size: 1rem;
+    background-color: rgba(0, 0, 0, 0.645);
+    border: 1px solid white;
+    border-radius: 3px;
+    color: white;
+    
+
+
+}
+
+.start{
+     height: 48px;
+    width: 160px;
+    border: none;
+    background-color: #E50914;
+    font-size: 1.2rem;
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+
+
+}
+
+.bg2{
+    background-color: rgba(0, 0, 0, 0.945);
+    height: 800px;
+    width: 100%;
+     
+}
+
+.main{
+
+    
+
+   
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    margin-left: 3%;
+    padding: 60px;  
+    
+    
+
+}
+
+.box{
+    display: flex;
+    
+    justify-content: space-evenly;
+    
+    
+    
+
+    
+}
+
+
+
+.box1{
+   
+     /* understand to the box */
+     background-image: url("./box1.jpg");
+     background-size: cover;
+    height: 250px;
+    width: 200px;
+    margin-left: 4%;
+    border-radius: 8px;
+
+}
+
+.box2{
+    background-color: aqua; 
+     background-image: url("./box2.jpg");
+     background-size: cover;
+    height: 250px;
+    width: 200px;
+    margin-left: 3%;
+    border-radius: 8px;
+
+}
+
+
+.box3{
+    background-color: aqua;
+     background-image: url("./box3.jpg");
+     background-size: cover;
+    height: 250px;
+    width: 200px;
+    margin-left: 3%;
+    border-radius: 8px;
+
+}
+
+
+.box4{
+    background-color: aqua;
+     background-image: url("./box4.jpg");
+     background-size: cover;
+    height: 250px;
+    width: 200px;
+    margin-left: 3%;
+    border-radius: 8px;
+
+}
+
+.box5{
+    background-color: aqua;
+     background-image: url("./box5.jpg");
+     background-size: cover;
+    height: 250px;
+    width: 200px;
+    margin-left: 3%;
+    border-radius: 8px;
+    margin-right: 4%;
+
+}
+
+.box6{
+    background-color: aqua;
+     background-image: url("./box6.jpg");
+     background-size: cover;
+    height: 250px;
+    width: 200px;
+    /* margin-left: 3%; */
+    border-radius: 8px;
+    margin-right: 4%;
+
+}
+
+.effect{
+   border: 3px solid transparent;
+}
+.effect:hover{
+    border: 3px solid rgba(0, 0, 0, 0.416);
+    border-radius: 10px;
+}
+
+/* .card-body{
+    background-color: aqua;
+} */
+
+h3{
+    color: white;
+    margin-left: 4%;
+    padding: 40px;
+    font-size:larger;
+    font-size: 1.5rem;
+    
+}
+
+.more{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+
+.ss1{
+    height: 260px;
+    width: 290px;
+    background-color: aqua;
+    background-image: url("./ss1.png");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.ss2{
+    height: 260px;
+    width: 290px;
+    background-color: aqua;
+    border-radius: 10px;
+    background-image: url("./ss2.png");
+    background-size: cover;
+}
+.ss3{
+    height: 260px;
+    width: 290px;
+    background-color: aqua;
+    border-radius: 10px;
+    background-image: url("./ss5.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ss4{
+    height: 260px;
+    width: 290px;
+    background-color: aqua;
+    border-radius: 10px;
+    background-image: url("./ss4.png");
+    background-size: cover;
+}
