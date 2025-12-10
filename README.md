@@ -38,6 +38,9 @@ Click the link above to view the deployed site on GitHub Pages.
 ---
 
 ## 📁 Folder Structure
+
+
+
 Netflix/
 ├── bg image.jpg
 ├── box1.jpg
